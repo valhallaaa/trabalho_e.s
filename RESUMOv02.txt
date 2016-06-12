@@ -2,16 +2,17 @@ https://github.com/FraanTineli/trabalho_e.s
 			conta	repositorio_1_projeto
 repositorio: organizar pastas, arquivos, imagens, videos, planilhas, conjunto de dados.
 
-Quick setup — if you’ve done this kind of thing before
-Configuração rápida - se você tiver feito esse tipo de coisa antes
+Quick setup â€” if youâ€™ve done this kind of thing before
+ConfiguraÃ§Ã£o rÃ¡pida - se vocÃª tiver feito esse tipo de coisa antes
 
 We recommend every repository include a README, LICENSE, and .gitignore.
-Recomendamos a cada repositório incluem um README, licença e .gitignore.
+Recomendamos a cada repositÃ³rio incluem um README, licenÃ§a e .gitignore.
 
+editando frantineli 01x
 
 adicionar alguem para contribuir o repositorio...
 
-nao mostra no perfil de quem é add o pedido de contribuição
-é por um link que chega no email
+nao mostra no perfil de quem Ã© add o pedido de contribuiÃ§Ã£o
+Ã© por um link que chega no email
 
 
