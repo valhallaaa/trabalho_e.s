@@ -1,6 +1,6 @@
 # trabalho_e.s
-editando o readme
+editando o readme 0.2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Recomendamos a cada repositório incluem um README, licença e .gitignore.
 
-contem informações sobre outros arquivos
+README.md contém informações sobre outros arquivos
